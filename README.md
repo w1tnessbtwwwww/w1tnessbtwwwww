@@ -1,7 +1,7 @@
 ### hello, from the dark side end. 🌟
 
 nice to meet you, im backend developer.
-
+![profile views - ](https://komarev.com/ghpvc/?username=w1tnessbtwwwww)
 ## 🛠️ technology stack:
 
 - **programming languages:**
