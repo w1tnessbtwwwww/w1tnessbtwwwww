@@ -18,9 +18,9 @@ nice to meet you, im backend developer.
 
 ## 📊 github stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1tnessbtwwwwww&show_icons=true&theme=radical)](https://github.com/ваш_юзернейм)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1tnessbtwwwww&show_icons=true&theme=radical)](https://github.com/ваш_юзернейм)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1tnessbtwwwwww&layout=compact&theme=radical)](https://github.com/ваш_юзернейм)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1tnessbtwwwww&layout=compact&theme=radical)](https://github.com/ваш_юзернейм)
 
 ## 💬 quote of the life
 > "git and github are like porn and pornhub"
