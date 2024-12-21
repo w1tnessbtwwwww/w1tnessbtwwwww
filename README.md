@@ -5,7 +5,7 @@ nice to meet you, im backend developer.
 ![profile views - ](https://komarev.com/ghpvc/?username=w1tnessbtwwwww)
 ## 🛠️ technology stack:
 
-- **programming languages:**
+- **programming languages:**\n
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
