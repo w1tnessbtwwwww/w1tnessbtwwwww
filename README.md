@@ -2,7 +2,15 @@
 ### does anybody here wanna be my friend? 👋
 
 nice to meet you, im backend developer.
+
 ![profile views - ](https://komarev.com/ghpvc/?username=w1tnessbtwwwww)
+
+# contact me:
+
+VK - https://vk.com/ktototamchototam
+TG - https://t.me/always_failure
+Discord - xxx.w1tnessbtw.xxx
+
 ## 🛠️ technology stack:
 
 - **operation systems:**
