@@ -8,7 +8,9 @@ nice to meet you, im backend developer.
 # contact me:
 
 VK - https://vk.com/ktototamchototam
+
 TG - https://t.me/always_failure
+
 Discord - xxx.w1tnessbtw.xxx
 
 ## 🛠️ technology stack:
