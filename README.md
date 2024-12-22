@@ -3,7 +3,7 @@
 
 nice to meet you, im backend developer.
 
-![profile views](https://komarev.com/ghpvc/?username=w1tnessbtwwwww)
+![viewer, u are](https://komarev.com/ghpvc/?username=w1tnessbtwwwww)
 
 # 💻 contact me:
 
