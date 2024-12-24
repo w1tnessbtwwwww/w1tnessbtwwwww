@@ -1,7 +1,7 @@
 ### hello, from the dark side end. 🌟
 ### does anybody here wanna be my friend? 👋
 
-#### im Alexey: backend dev && beginner devops engineer
+#### im Alexey: backend dev && beginner devops engineer 💻
 
 ![viewer, u are](https://komarev.com/ghpvc/?username=w1tnessbtwwwww)
 
