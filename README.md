@@ -1,7 +1,7 @@
 ### hello, from the dark side end. 🌟
 ### does anybody here wanna be my friend? 👋
 
-nice to meet you, im backend developer.
+#### im Alexey: backend dev && beginner devops engineer
 
 ![viewer, u are](https://komarev.com/ghpvc/?username=w1tnessbtwwwww)
 
@@ -99,5 +99,4 @@ Discord - xxx.w1tnessbtw.xxx
 ## 💬 quote of the life
 > "git and github are like porn and pornhub"
 
-nice to meet you again.
 
